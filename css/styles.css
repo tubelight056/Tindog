@@ -1,0 +1,223 @@
+#Title
+{
+  background-color: #ff4c68;
+  font-family: 'Montserrat-black', sans-serif;
+}
+.container-fluid
+{
+  padding-top: 3% ;
+  padding-bottom: 3%;
+}
+#container1
+{
+  padding-left: 15%;
+  padding-right: 15%;
+}
+
+.titletext
+{
+  font-family: 'Montserrat-black', sans-serif;
+  font-weight: bolder;
+  color: white;
+
+  size: 5rem;
+  line-height: 1.5;
+}
+.navbar-brand
+{
+  font-weight: bolder;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 1.7rem;
+}
+
+.navbar
+{
+  padding: 0 0 4.5rem 0;
+}
+.nav-item
+{
+  padding: 0px 18px;
+}
+.nav-link
+{
+  font-size: 1.7rem;
+  font-weight: lighter;
+}
+.btn{
+  margin: 5% 3% 5% 0 ;
+}
+.title-image
+{
+  width: 60%;
+ position: relative;
+  transform: rotate(25deg);
+  left: 14%;
+}
+@media (max-width: 1120px){
+.title-image{
+  transform: rotate(0);
+  position: static;
+
+}
+#Title
+{
+  text-align: center;
+}
+}
+
+
+
+
+
+.feature{
+  background-color: #fff;
+  padding-top: 10%;
+
+  text-align:center;
+  padding-left: 10%;
+  padding-right: 10%;
+  position:relative;
+  top:-176px;
+  z-index: 1;
+}
+
+.icon
+{
+font-size: 5rem;
+padding: 10%;
+color: #ef614e;
+
+}
+.icon:hover
+{
+  color: #ff4c68;
+}
+.feature-header{
+font-size: 1.5rem;
+font-family: 'Montserrat-black', sans-serif;
+
+
+}
+.feature-text
+{
+  color: #8f8f8f
+}
+
+#testimonials
+{
+  color:#fff;
+    background-color: #ef614e;
+  text-align: center;
+
+
+
+
+}
+.testimonial-text
+{
+  line-height: 1.5;
+  width: 100%;
+  font-size:2.3rem;
+  font-family: 'Montserrat-black', sans-serif;
+  font-weight: bold;
+  padding: 4% 4% 0 4%;
+
+}
+.testimonial-img
+{
+  padding:4%;
+
+  border-radius: 100%;
+  width: 20%;
+}
+#press
+{
+  padding-top: 3%;
+  background-color: #ef614e;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-img
+{
+  padding:3%;
+  width: 22%;
+}
+
+
+#carouselExampleIndicators
+{
+  padding-top: 4%;
+}
+#acarouselExampleIndicators
+{
+  padding: 3% 15% 0 15%;
+
+}
+.carousel-indicators
+{
+  bottom: -24px;
+
+}
+
+
+#pricing
+{
+  padding:5%;
+  text-align: center;
+}
+.pc
+{
+  padding: 2% 3%;
+}
+.card-header
+{
+  background-color: #ef614e;
+  color: #fff;
+
+}
+.bt
+{
+  background-color: #ef614e;
+  color: #fff;
+}
+.bt:hover
+{
+  background-color:#ff4c68;
+  color:#fff;
+}
+.btn-outline
+{
+  background-color: #fff;
+  border-color: #ff4c68;
+  color:#ff4c68;
+}
+#cta{
+  background-color: #ff4c68;
+  padding:3% 15%;
+  font-family: 'Montserrat-black', sans-serif;
+  text-align:center;
+  font-weight:bolder;
+  color: white;
+
+
+  line-height:1.5;
+
+}
+.cta-text
+{
+  font-weight: bolder;
+  color: white;
+  font-size:2.5rem;
+
+  line-height: 1.5;
+  padding: 5%;
+}
+#footer
+{
+  text-align: center;
+  background-color: #fff;
+  padding: 6%;
+}
+.fa {
+  padding:3%;
+}
